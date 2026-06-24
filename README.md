@@ -316,3 +316,72 @@ This project was developed as a Final Year Major Project by a team of four membe
 | Rameshwar Kute | Backend Developer |
 | Sarthak Shelke | Database & Testing |
 
+## 🎓 Project Supervisor
+
+This project was developed under the guidance of:
+
+**Prof. B.R.Ban**  
+Department of Computer Engineering  
+Sinhgad College of Enginneering
+
+## 🚀 Key Features
+
+- Secure User Authentication using JWT
+- Doctor Appointment Booking System
+- Doctor Profile Management
+- Appointment Scheduling & Cancellation
+- AI Symptom Checker
+- AI Health Assistant Chatbot
+- AI-Based Health Risk Assessment
+- Online Payment Integration
+- Cloud Storage for Medical Reports
+- Admin Dashboard
+- Responsive User Interface
+
+## 📌 My Contributions
+
+As a Full Stack Developer, my responsibilities included:
+
+- Developed REST APIs using Node.js and Express.js
+- Integrated MongoDB Database
+- Implemented JWT Authentication & Authorization
+- Developed AI Symptom Checker Integration
+- Developed AI Health Assistant Module
+- Built React Frontend Components
+- Connected Frontend with Backend APIs
+- Integrated Cloudinary for File Uploads
+- Fixed Deployment and API Integration Issues
+
+## 🏆 Project Highlights
+
+- Final Year Major Project (2025-26)
+- Team Size: 4 Members
+- MERN Stack Based Healthcare Platform
+- AI-Powered Symptom Analysis
+- Machine Learning Based Department Prediction
+- Real-Time Appointment Management
+- Secure and Scalable Architecture
+
+## 🔮 Future Enhancements
+
+- Video Consultation
+- Electronic Health Records (EHR)
+- AI Prescription Analysis
+- Multi-Language Support
+- Wearable Device Integration
+- Mobile Application (Android & iOS)
+
+## 📄 License
+
+This project is developed for academic and educational purposes as a Final Year Engineering Project.
+
+## 👨‍💻 Author
+
+**Ganesh Kurhe**
+
+- LinkedIn: https://www.linkedin.com/in/ganesh-kurhe-79a39828a/
+- GitHub: https://github.com/ganesh-kurhe?tab=repositories
+- Email: ganeshkurhe512@gmail.com
+
+
+
