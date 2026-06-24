@@ -134,3 +134,174 @@ Doctor_Appointment_Booking_System
 │   └── vectorizer.pkl
 │
 └── README.md
+
+
+# ⚙️ Installation Guide
+
+## Prerequisites
+
+Make sure the following software is installed:
+
+- Node.js (v18+)
+- npm
+- Python (v3.10+)
+- MongoDB Atlas Account
+- Git
+
+---
+
+## Clone Repository
+
+```bash
+git clone https://github.com/your-username/HealthBridge.git
+cd HealthBridge
+```
+
+---
+
+## Backend Setup
+
+```bash
+cd backend
+npm install
+```
+
+Create a `.env` file inside the backend folder:
+
+```env
+PORT=4000
+
+MONGODB_URI=your_mongodb_connection_string
+
+JWT_SECRET=your_secret_key
+
+AI_SERVICE_URL=http://127.0.0.1:5000
+
+CLOUDINARY_NAME=your_cloudinary_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_SECRET_KEY=your_cloudinary_secret
+
+RAZORPAY_KEY_ID=your_razorpay_key
+RAZORPAY_KEY_SECRET=your_razorpay_secret
+
+STRIPE_SECRET_KEY=your_stripe_secret_key
+```
+
+Run Backend:
+
+```bash
+npm run server
+```
+
+Expected Output:
+
+```bash
+Server started on PORT:4000
+Database Connected
+```
+
+---
+
+## Frontend Setup
+
+```bash
+cd frontend
+npm install
+```
+
+Create `.env` file:
+
+```env
+VITE_BACKEND_URL=http://localhost:4000
+VITE_RAZORPAY_KEY_ID=your_razorpay_key
+```
+
+Run Frontend:
+
+```bash
+npm run dev
+```
+
+Frontend will run on:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## AI Service Setup
+
+```bash
+cd ai-service
+```
+
+Create Virtual Environment:
+
+### Windows
+
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+### Linux / Mac
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install Dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run AI Service:
+
+```bash
+python app.py
+```
+
+Expected Output:
+
+```bash
+Running on http://127.0.0.1:5000
+```
+
+---
+
+## Start Complete Application
+
+### Terminal 1
+
+```bash
+cd backend
+npm run server
+```
+
+### Terminal 2
+
+```bash
+cd frontend
+npm run dev
+```
+
+### Terminal 3
+
+```bash
+cd ai-service
+python app.py
+```
+
+---
+
+## Access Application
+
+| Service | URL |
+|----------|----------|
+| Frontend | http://localhost:5173 |
+| Backend | http://localhost:4000 |
+| AI Service | http://127.0.0.1:5000 |
+
