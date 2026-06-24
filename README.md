@@ -274,7 +274,7 @@ python app.py
 | Backend | http://localhost:4000 |
 | AI Service | http://127.0.0.1:5000 |
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 Doctor_Appointment_Booking_System
