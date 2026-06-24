@@ -1,0 +1,190 @@
+symptoms,department,priority
+chest pain,Cardiology,High
+heart pain,Cardiology,High
+palpitations,Cardiology,Medium
+shortness of breath,Pulmonology,High
+breathing difficulty,Pulmonology,High
+asthma,Pulmonology,Medium
+cough,Pulmonology,Low
+skin rash,Dermatology,Medium
+itching skin,Dermatology,Medium
+eczema,Dermatology,Low
+acne,Dermatology,Low
+fever,General Physician,Medium
+cold,General Physician,Low
+flu,General Physician,Medium
+sore throat,General Physician,Low
+fatigue,General Physician,Low
+headache,Neurology,Medium
+migraine,Neurology,Medium
+dizziness,Neurology,Medium
+seizures,Neurology,High
+eye pain,Ophthalmology,Medium
+blurred vision,Ophthalmology,High
+red eyes,Ophthalmology,Low
+tooth pain,Dentist,Low
+gum swelling,Dentist,Medium
+stomach pain,Gastroenterology,Medium
+vomiting,Gastroenterology,High
+nausea,Gastroenterology,Medium
+diarrhea,Gastroenterology,Medium
+joint pain,Orthopedics,Medium
+bone fracture,Orthopedics,High
+back pain,Orthopedics,Medium
+ear pain,ENT,Low
+ear infection,ENT,Medium
+hearing loss,ENT,Medium
+sinus pain,ENT,Low
+abdominal pain,Gastroenterology,Medium
+chest tightness,Cardiology,High
+high blood pressure,Cardiology,Medium
+urinary pain,Urology,Medium
+frequent urination,Urology,Medium
+menstrual pain,Gynecology,Medium
+thyroid issues,Endocrinology,Medium
+diabetes,Endocrinology,High
+hair loss,Dermatology,Low
+anxiety,Mental Health,Medium
+depression,Mental Health,Medium
+stress,Mental Health,Low
+allergic reaction,Allergy,High
+food allergy,Allergy,High
+seasonal allergy,Allergy,Low
+muscle pain,Orthopedics,Medium
+muscle weakness,Neurology,Medium
+vision changes,Ophthalmology,Medium
+hearing changes,ENT,Medium
+insomnia,Sleep Medicine,Low
+sleep apnea,Sleep Medicine,Medium
+blood in stool,Gastroenterology,High
+liver pain,Gastroenterology,High
+kidney stones,Urology,High
+bladder infection,Urology,Medium
+ovarian pain,Gynecology,High
+breast lump,Gynecology,High
+hormonal issues,Endocrinology,Medium
+bone density issues,Orthopedics,Medium
+infertility,Gynecology,Medium
+erectile dysfunction,Urology,Medium
+eating disorders,Mental Health,High
+autoimmune disease,Rheumatology,Medium
+rheumatoid arthritis,Rheumatology,High
+herniated disc,Orthopedics,High
+stroke,Neurology,High
+epilepsy,Neurology,High
+parkinsons,Neurology,High
+cystic fibrosis,Pulmonology,High
+sickle cell,Hematology,High
+leukemia,Hematology,High
+anemia,Hematology,Medium
+liver disease,Gastroenterology,High
+hepatitis,Gastroenterology,High
+pancreatitis,Gastroenterology,High
+crohns disease,Gastroenterology,High
+peanut allergy,Allergy,High
+penicillin allergy,Allergy,High
+contact dermatitis,Dermatology,Medium
+pemphigus,Dermatology,High
+stevens johnson,Dermatology,High
+varicose veins,Vascular Surgery,Medium
+deep vein thrombosis,Vascular Surgery,High
+aneurysm,Vascular Surgery,High
+varicose veins,Vascular Surgery,Medium
+spider veins,Vascular Surgery,Low
+deep vein thrombosis,Vascular Surgery,High
+pulmonary embolism,Vascular Surgery,High
+aneurysm,Vascular Surgery,High
+peripheral artery disease,Vascular Surgery,Medium
+carotid artery disease,Vascular Surgery,High
+abdominal aortic aneurysm,Vascular Surgery,High
+thoracic aortic aneurysm,Vascular Surgery,High
+dissecting aneurysm,Vascular Surgery,High
+vascular malformation,Vascular Surgery,Medium
+arteriovenous malformation,Vascular Surgery,Medium
+cavernous malformation,Vascular Surgery,Medium
+telangiectasia,Vascular Surgery,Low
+hemangioma,Vascular Surgery,Low
+lymphangioma,Vascular Surgery,Low
+kaposi sarcoma,Vascular Surgery,High
+angiosarcoma,Vascular Surgery,High
+leiomyosarcoma,Vascular Surgery,High
+rhabdomyosarcoma,Vascular Surgery,High
+liposarcoma,Vascular Surgery,High
+chondrosarcoma,Vascular Surgery,High
+osteosarcoma,Vascular Surgery,High
+ewing sarcoma,Vascular Surgery,High
+chordoma,Vascular Surgery,High
+adamantinoma,Vascular Surgery,High
+giant cell tumor,Vascular Surgery,Medium
+enchondroma,Vascular Surgery,Low
+chondroblastoma,Vascular Surgery,Medium
+chondromyxoid fibroma,Vascular Surgery,Medium
+fibrous dysplasia,Vascular Surgery,Low
+nonossifying fibroma,Vascular Surgery,Low
+solitary bone cyst,Vascular Surgery,Low
+aneurysmal bone cyst,Vascular Surgery,Medium
+simple bone cyst,Vascular Surgery,Low
+fibrous cortical defect,Vascular Surgery,Low
+osteochondroma,Vascular Surgery,Low
+osteoid osteoma,Vascular Surgery,Medium
+osteoblastoma,Vascular Surgery,Medium
+malignant fibrous histiocytoma,Vascular Surgery,High
+fibrosarcoma,Vascular Surgery,High
+malignant peripheral nerve sheath tumor,Vascular Surgery,High
+alveolar soft part sarcoma,Vascular Surgery,High
+clear cell sarcoma,Vascular Surgery,High
+desmoplastic small round cell tumor,Vascular Surgery,High
+extraskeletal myxoid chondrosarcoma,Vascular Surgery,High
+mesenchymal chondrosarcoma,Vascular Surgery,High
+peripheral primitive neuroectodermal tumor,Vascular Surgery,High
+synovial sarcoma,Vascular Surgery,High
+epithelioid sarcoma,Vascular Surgery,High
+alveolar rhabdomyosarcoma,Vascular Surgery,High
+embryonal rhabdomyosarcoma,Vascular Surgery,High
+botryoid rhabdomyosarcoma,Vascular Surgery,High
+spindle cell rhabdomyosarcoma,Vascular Surgery,High
+pleomorphic rhabdomyosarcoma,Vascular Surgery,High
+undifferentiated sarcoma,Vascular Surgery,High
+kaposi sarcoma,Vascular Surgery,High
+angiosarcoma,Vascular Surgery,High
+leiomyosarcoma,Vascular Surgery,High
+rhabdomyosarcoma,Vascular Surgery,High
+liposarcoma,Vascular Surgery,High
+chondrosarcoma,Vascular Surgery,High
+osteosarcoma,Vascular Surgery,High
+ewing sarcoma,Vascular Surgery,High
+chordoma,Vascular Surgery,High
+adamantinoma,Vascular Surgery,High
+giant cell tumor,Vascular Surgery,Medium
+enchondroma,Vascular Surgery,Low
+chondroblastoma,Vascular Surgery,Medium
+chondromyxoid fibroma,Vascular Surgery,Medium
+fibrous dysplasia,Vascular Surgery,Low
+nonossifying fibroma,Vascular Surgery,Low
+solitary bone cyst,Vascular Surgery,Low
+aneurysmal bone cyst,Vascular Surgery,Medium
+simple bone cyst,Vascular Surgery,Low
+fibrous cortical defect,Vascular Surgery,Low
+osteochondroma,Vascular Surgery,Low
+osteoid osteoma,Vascular Surgery,Medium
+osteoblastoma,Vascular Surgery,Medium
+malignant fibrous histiocytoma,Vascular Surgery,High
+fibrosarcoma,Vascular Surgery,High
+malignant peripheral nerve sheath tumor,Vascular Surgery,High
+alveolar soft part sarcoma,Vascular Surgery,High
+clear cell sarcoma,Vascular Surgery,High
+desmoplastic small round cell tumor,Vascular Surgery,High
+extraskeletal myxoid chondrosarcoma,Vascular Surgery,High
+mesenchymal chondrosarcoma,Vascular Surgery,High
+peripheral primitive neuroectodermal tumor,Vascular Surgery,High
+synovial sarcoma,Vascular Surgery,High
+epithelioid sarcoma,Vascular Surgery,High
+alveolar rhabdomyosarcoma,Vascular Surgery,High
+embryonal rhabdomyosarcoma,Vascular Surgery,High
+botryoid rhabdomyosarcoma,Vascular Surgery,High
+spindle cell rhabdomyosarcoma,Vascular Surgery,High
+pleomorphic rhabdomyosarcoma,Vascular Surgery,High
+undifferentiated sarcoma,Vascular Surgery,High
+throat infection,ENT,Medium
+depression,Psychiatry,Medium
+anxiety,Psychiatry,Medium
