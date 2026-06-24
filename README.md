@@ -104,37 +104,6 @@ The platform enables patients to find doctors, book appointments, make online pa
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Doctor_Appointment_Booking_System
-│
-├── frontend
-│   ├── src
-│   │   ├── pages
-│   │   ├── components
-│   │   ├── assets
-│   │   ├── context
-│   │   └── App.jsx
-│
-├── backend
-│   ├── controllers
-│   ├── middleware
-│   ├── models
-│   ├── routes
-│   ├── config
-│   └── server.js
-│
-├── ai-service
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── model.pkl
-│   ├── priority_model.pkl
-│   ├── department_model.pkl
-│   └── vectorizer.pkl
-│
-└── README.md
-
 
 # ⚙️ Installation Guide
 
@@ -304,4 +273,46 @@ python app.py
 | Frontend | http://localhost:5173 |
 | Backend | http://localhost:4000 |
 | AI Service | http://127.0.0.1:5000 |
+
+# 📂 Project Structure
+
+```bash
+Doctor_Appointment_Booking_System
+│
+├── frontend
+│   ├── src
+│   │   ├── pages
+│   │   ├── components
+│   │   ├── assets
+│   │   ├── context
+│   │   └── App.jsx
+│
+├── backend
+│   ├── controllers
+│   ├── middleware
+│   ├── models
+│   ├── routes
+│   ├── config
+│   └── server.js
+│
+├── ai-service
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── model.pkl
+│   ├── priority_model.pkl
+│   ├── department_model.pkl
+│   └── vectorizer.pkl
+│
+└── README.md
+
+## 👨‍💻 Team Members
+
+This project was developed as a Final Year Major Project by a team of four members.
+
+| Name | Role |
+|--------|--------|
+| Ganesh Kurhe | Full Stack Developer, AI Integration |
+| Vishwa Deshpande | Frontend Developer |
+| Rameshwar Kute | Backend Developer |
+| Sarthak Shelke | Database & Testing |
 
